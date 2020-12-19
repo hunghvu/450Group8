@@ -26,25 +26,25 @@
 
 ### Login and Register
 
-<img src="./demo-pics/authentication.png" alt="Authentication"></img>
+<img src="./demo-pics/authentication.png" alt="Authentication">
 <br>
 <br>
 <br>
 
 ### Password Recovery
-<img src="./demo-pics/password-recovery.png" alt="Password Recovery"></img>
+<img src="./demo-pics/password-recovery.png" alt="Password Recovery">
 <br>
 <br>
 <br>
 
 ### Home, Connection and Chat Pages
-<img src="./demo-pics/main-pages-1.png" alt="Main Pages 1"></img>
+<img src="./demo-pics/main-pages-1.png" alt="Main Pages 1">
 <br>
 <br>
 <br>
 
 ### Inside Group Chat Room, Weather and Map Pages
-<img src="./demo-pics/main-pages-2.png" alt="Main Pages 2"></img>
+<img src="./demo-pics/main-pages-2.png" alt="Main Pages 2">
 
 ## Contributors
 

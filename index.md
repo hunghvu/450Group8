@@ -1,37 +1,54 @@
-## Welcome to GitHub Pages
+# Com Chat
 
-You can use the [editor on GitHub](https://github.com/hunghvu/com-chat/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+- An Android messaging app, which allows users to chat together using Internet.
+- Some notable functionalities:
+  1. Users can register, recover, and login to their personal account. Some processes will reuqire an email verification steps.
+  2. Users can view weather forecast based on their current location, or provided location (ZIP code or select on Google Map).
+  3. Users can add/delete contact, or search other account.
+  4. Users can create a group chat room or a direct message to another user.
+  5. Themes are changeable.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Web service of the project: <https://github.com/hunghvu/com-chat-web-service>
+- **Application presentation video**: <https://drive.google.com/file/d/13Hld0EJD6QmRwp7x6ubCj7GuGn89VRnE/view?usp=sharing>
 
-### Markdown
+## Installation and Execution
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- **Note:** All required dependencies are included. The app requires API 26 at minimum.
+- Steps:
+  1. Clone the repository.
+  2. The cloned repository itself is an Android project, open it in Android Studio.
+  3. Run it on an emulator.
+  4. Done.
 
-```markdown
-Syntax highlighted code block
+- Alternatively, you can install this application by dropping the apk file into your emulator, or directly install it on a real Android device.
 
-# Header 1
-## Header 2
-### Header 3
+## User Interface Examples
 
-- Bulleted
-- List
+### Login and Register
 
-1. Numbered
-2. List
+<img src="./demo-pics/authentication.png" alt="Authentication"></img>
+<br>
+<br>
+<br>
 
-**Bold** and _Italic_ and `Code` text
+### Password Recovery
+<img src="./demo-pics/password-recovery.png" alt="Password Recovery"></img>
+<br>
+<br>
+<br>
 
-[Link](url) and ![Image](src)
-```
+### Home, Connection and Chat Pages
+<img src="./demo-pics/main-pages-1.png" alt="Main Pages 1"></img>
+<br>
+<br>
+<br>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Inside Group Chat Room, Weather and Map Pages
+<img src="./demo-pics/main-pages-2.png" alt="Main Pages 2"></img>
 
-### Jekyll Themes
+## Contributors
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hunghvu/com-chat/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Hung H. Vu
+- Adam Hall
+- Jerry J. Springer
+- Phong H. Le

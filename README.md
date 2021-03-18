@@ -1,15 +1,17 @@
 # Com Chat
 
-- An Android messaging app, which allows users to chat together using Internet.
+- An Android messaging app, which allows users to chat together using Internet. 
+
 - Some notable functionalities:
-  1. Users can register, recover, and login to their personal account. Some processes will reuqire an email verification steps.
-  2. Users can view weather forecast based on their current location, or provided location (ZIP code or select on Google Map).
-  3. Users can add/delete contact, or search other account.
+
+  1. Users can register, recover, and login to their personal account. Some processes will require email verification steps.
+  2. Users can view weather forecast based on their current location, or provided location (using ZIP code or select on Google Map).
+  3. Users can add/delete contact, or search other accounts.
   4. Users can create a group chat room or a direct message to another user.
   5. Themes are changeable.
 
 - Web service of the project: <https://github.com/hunghvu/com-chat-web-service>
-- **Application presentation video**: <https://drive.google.com/file/d/13Hld0EJD6QmRwp7x6ubCj7GuGn89VRnE/view?usp=sharing>
+- **Application demo video**: <https://youtu.be/5n2kLIX5d_M>
 
 ## Installation and Execution
 
@@ -22,7 +24,7 @@
 
 - Alternatively, you can install this application by dropping the apk file into your emulator, or directly install it on a real Android device.
 
-## User Interface Examples
+## Screenshot
 
 ### Login and Register
 
